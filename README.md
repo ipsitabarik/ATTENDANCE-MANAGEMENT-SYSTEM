@@ -118,10 +118,10 @@ npm run install-all
 Create a `.env` file inside the **server** directory.
 
 ```env
-PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/attendance_db
+PORT=your port name
+MONGO_URI=your mongodb url
 JWT_SECRET=your_secret_key
-JWT_EXPIRE=30d
+JWT_EXPIRE=your expire day
 NODE_ENV=development
 ```
 
