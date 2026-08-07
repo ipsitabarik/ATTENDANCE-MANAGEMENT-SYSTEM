@@ -97,7 +97,7 @@ ATTENDANCE-MANAGEMENT-SYSTEM/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/attendance-management-system.git
+git clone https://github.com/HimanshuKumarRout/attendance-management-system.git
 cd attendance-management-system
 ```
 
